@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se você utilizar este jogo, cite a versão arquivada indicada neste arquivo."
+title: "Balanceamento REDOX"
+type: software
+version: 1.0.0
+authors:
+  - family-names: "de Araujo"
+    given-names: "Yuri Farias Tejo"
+    affiliation: "IFSP/UNESP"
+abstract: >-
+  Recurso digital procedimental para apoiar o balanceamento de equações
+  químicas pelo método de oxirredução, incluindo revisão de coeficientes,
+  índices, NOX e agentes oxidante e redutor.
+keywords:
+  - ensino de química
+  - jogos digitais
+  - oxirredução
+  - balanceamento de equações
+license: MIT
+repository-code: "https://github.com/yurig4/Redox"
+url: "https://yurig4.github.io/Redox/"
+
