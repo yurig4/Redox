@@ -3,6 +3,7 @@ message: "Se você utilizar este jogo, cite a versão arquivada indicada neste a
 title: "Balanceamento REDOX"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.22119244
 authors:
   - family-names: "de Araujo"
     given-names: "Yuri Farias Tejo"
@@ -19,4 +20,3 @@ keywords:
 license: MIT
 repository-code: "https://github.com/yurig4/Redox"
 url: "https://yurig4.github.io/Redox/"
-

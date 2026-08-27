@@ -1,5 +1,7 @@
 # Balanceamento REDOX
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22119244.svg)](https://doi.org/10.5281/zenodo.22119244)
+
 Recurso digital procedimental para apoiar o balanceamento de equações químicas pelo método de oxirredução. O jogador revisa conceitos e realiza, em sequência, a identificação dos elementos, as variações de NOX, os agentes oxidante e redutor e o ajuste dos coeficientes.
 
 ## Acesso
@@ -27,9 +29,8 @@ Yuri Farias Tejo de Araujo — IFSP/UNESP.
 
 ## Como citar
 
-A forma de citação e o DOI serão acrescentados após o arquivamento da versão `v1.0.0` no Zenodo. Os metadados preliminares estão em [`CITATION.cff`](CITATION.cff).
+ARAUJO, Yuri Farias Tejo de. *Balanceamento REDOX* (v1.0.0) [software]. Zenodo, 2026. DOI: [10.5281/zenodo.22119244](https://doi.org/10.5281/zenodo.22119244). Os metadados também estão disponíveis em [`CITATION.cff`](CITATION.cff).
 
 ## Licenciamento
 
 O código e os elementos originais produzidos pelo autor são disponibilizados sob a licença MIT. Recursos do Construct 3 e materiais obtidos no Freepik não são abrangidos pela MIT; consulte [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
-
